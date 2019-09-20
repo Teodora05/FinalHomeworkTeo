@@ -1,0 +1,4 @@
+Sep 20, 2019 11:14:43 AM PositiveTests.PetClinicTest beforeMethod
+INFO: Opening the site at :http://bhdtest.endava.com/petclinic/owners 
+Sep 20, 2019 11:14:44 AM PositiveTests.PetClinicTest createOwnersTest
+INFO: CLICKING ON DROPDOWN OWNERS BUTTON

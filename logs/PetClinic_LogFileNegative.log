@@ -1,0 +1,12 @@
+Sep 20, 2019 5:34:40 PM After.Before.BaseClass beforeMethod
+INFO: Opening the site at :http://bhdtest.endava.com/petclinic/owners 
+Sep 20, 2019 5:34:40 PM NegativeTests.PetClinicTest petTypesNegativeTest
+INFO: CLICKING ON NAV PETTYPES BUTTON
+Sep 20, 2019 5:34:40 PM NegativeTests.PetClinicTest petTypesNegativeTest
+INFO: CLICKING ON ADD NEW PET TYPE
+Sep 20, 2019 5:34:40 PM NegativeTests.PetClinicTest petTypesNegativeTest
+INFO: ADD PET TYPE Name Special Charcters
+Sep 20, 2019 5:34:40 PM NegativeTests.PetClinicTest petTypesNegativeTest
+INFO: CLICKING ON SAVE PET TYPE BUTTON
+Sep 20, 2019 5:34:40 PM NegativeTests.PetClinicTest petTypesNegativeTest
+INFO: ASSERT-NEW PET TYPE IS SUCCESSFULLY ADDED
